@@ -1,0 +1,19 @@
+{
+  "name": "discord-categorise-links",
+  "version": "1.0.0",
+  "description": "A Discord bot for categorising links posted by users.",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iJrod/discord-categorise-links.git"
+  },
+  "author": "iJrod",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iJrod/discord-categorise-links/issues"
+  },
+  "homepage": "https://github.com/iJrod/discord-categorise-links#readme",
+  "dependencies": {
+    "discord.js": "^12.3.1"
+  }
+}
